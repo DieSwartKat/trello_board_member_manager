@@ -1,0 +1,15 @@
+django==3.2
+django-filter==2.4.0
+djangorestframework==3.12.4
+trello==0.9.6
+
+# Testing framework
+pytest==6.0.1
+# Coverage module for pytest
+pytest-cov==2.10.1
+
+# Reading environment variables
+python-dotenv==0.14.0
+
+# Auto documentation
+pdoc3==0.9.1
